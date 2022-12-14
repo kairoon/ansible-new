@@ -1,0 +1,14 @@
+---
+- Students:
+  - name: raj
+    phno: 8688957803
+    address:
+      dno: 1/23
+      street: salabad
+      code: 516213
+  - name: kkkk
+    phno: 9347615076
+    address:
+      dno: 1/23
+      street: salabad
+      code: 516213
