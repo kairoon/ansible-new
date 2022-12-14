@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: myUbuntuservers
   become: yes
   tasks:
   - name: i want install webserver on ansible nodes
